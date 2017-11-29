@@ -1,0 +1,143 @@
+body {
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#display {
+	margin-left: 400px;
+	margin-right: 400px;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	height: 65px;
+	margin-top: 100px;
+	padding-left: 10px;
+	padding-top: 5px;
+	background-color: #EEEEEE;
+	border-color: black;
+}
+
+/*rows*/
+
+.first-row {
+	margin-left: 400px;
+	margin-right: 400px;
+	margin-top: 10px;
+	padding: -10px;
+}
+
+.second-row {
+	margin-left: 400px;
+	margin-right: 400px;
+	margin-top: 10px;
+	padding: -10px;
+}
+
+.third-row {
+	margin-left: 400px;
+	margin-right: 400px;
+	margin-top: 10px;
+	padding: -10px;
+}
+
+.fourth-row {
+	margin-left: 400px;
+	margin-right: 400px;
+	margin-top: 10px;
+	padding: -10px;
+}
+
+.fifth-row {
+	margin-left: 400px;
+	margin-right: 400px;
+	margin-top: 10px;
+	padding: -10px;
+}
+
+/*buttons*/
+
+.small-button {
+	height: 65px;
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+}
+
+#eight-button {
+	border-left-width: 0px;
+	border-right-width: 0px;
+}
+
+#five-button {
+	border-left-width: 0px;
+	border-right-width: 0px;
+}
+
+#two-button {
+	border-left-width: 0px;
+	border-right-width: 0px;
+}
+
+#divide-button {
+	border-left-width: 1px;
+	border-right-width: 1px;
+}
+
+#decimal-button {
+	border-left-width: 0px;
+	border-right-width: 1px;
+}
+
+#nine-button {
+	border-right-width: 1px;
+}
+
+#six-button {
+	border-right-width: 1px;
+}
+
+#three-button {
+	border-right-width: 1px;
+}
+
+#zero-button {
+	border-right-width: 0px;
+}
+
+#minus-button {
+	border-left-width: 0px;
+}
+
+#plus-button {
+	border-left-width: 0px;
+}
+
+#equals-button {
+	border-left-width: 1px;
+	border-right-width: 0px;
+	background-color:#A5D6A7;
+	border-color: black;
+}
+
+#clear-button {
+	border-right-width: 0px;
+	background-color: #E57373;
+	color: white;
+	border-color: black;
+}
+
+#multiply-button {
+	border-left-width: 0px;
+}
+
+.small-button:hover {
+	background-color: gray;
+}
+
+#equals-button:hover {
+	background-color: gray;
+}
+
+#clear-button:hover {
+	background-color: gray;
+}
